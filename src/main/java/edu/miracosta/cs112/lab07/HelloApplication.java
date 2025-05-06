@@ -13,7 +13,6 @@ import javafx.stage.Stage;
 
 public class HelloApplication extends Application implements EventHandler<ActionEvent> {
 
-    // Class-level references (PT4)
     private Label label1;
     private Label label2;
     private Button button1;
